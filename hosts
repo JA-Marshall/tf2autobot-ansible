@@ -1,0 +1,2 @@
+[servers]
+{server ip}   ansible_connection=ssh  ansible_user={server user} local_ecosytemjson_path={your ecosystem.json path}
